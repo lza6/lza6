@@ -1,13 +1,5 @@
 # 您好，我是 lza6 (Chinese-tingfeng) 👋
 
-<p align="center">
-  <a href="https://github.com/lza6">
-    <img alt="lza6 的 GitHub 统计" src="https://github-readme-stats.vercel.app/api?username=lza6&show_icons=true&theme=radical&rank_icon=github&hide_title=true&hide_border=true&bg_color=30,0d1117,161b22&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165"/>
-  </a>
-  <a href="https://github.com/lza6">
-    <img alt="主要语言" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lza6&layout=compact&theme=radical&hide_title=true&hide_border=true&bg_color=30,161b22,0d1117&title_color=58a6ff&text_color=c9d1d9" height="165"/>
-  </a>
-</p>
 
 <div align="center">
   
